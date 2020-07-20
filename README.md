@@ -1,4 +1,5 @@
-This project contains a basic React App created using -> Typescript, React v16.13.1 , Redux, Thunk 
+This project contains a basic React App created using:
+### `Typescript, React v16.13.1 , Redux, Thunk` 
 
 ## Available Scripts
 
@@ -15,7 +16,6 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
